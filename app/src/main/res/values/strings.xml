@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ECommerce App</string>
+
+    <string name="first_slide">Choose Your Products</string>
+    <string name="second_slide">Firt Delivery</string>
+    <string name="third_slide">Good Service</string>
+
+    <string name="description">" Trước khi tuổi trẻ này đóng lối " là bài hát số 3 trong chuyến đi Đà Lạt.
+Sống cho hết đời thanh xuân trước khi tuổi trẻ này đóng lối để mọi thứ được trọn vẹn hơn
+Hãy sống và làm những điều bạn thích trước khi thanh xuân ngắn ngủi trôi qua. Đây rất có thể sẽ là bài hát cuối cùng chúng tôi viết cho tuổi trẻ, cho những người bạn, cho tình yêu dại khờ của những tháng năm ấy . Hi vọng tất cả những người đồng điệu được âm nhạc này sẽ tiếp tục ủng hộ anh em trong những hành trình khác biệt sắp tới.  z</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
